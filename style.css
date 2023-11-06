@@ -857,7 +857,7 @@ body {
 }
 
 .social-links a {
-  /* Set the icon links color here. By default, theyâ€™ll have the same color as the text. */
+  /* Set the icon links color here. By default, they’ll have the same color as the text. */
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
